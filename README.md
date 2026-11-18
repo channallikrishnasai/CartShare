@@ -30,6 +30,10 @@ Open [http://localhost:8000](http://localhost:8000).
 - See recent room activity and print a clean, itemized group receipt.
 - Copy the room invite code and open the room dialog to create or join a room.
 
+## Project deck
+
+Download the [CartShare project showcase PDF](docs/CartShare-Project-Deck.pdf). It covers the 250-item catalog, ten aisles, sample pricing, product flow, implementation, prototype limits, live demo plan, and a clickable teaser preview.
+
 ## 15-second teaser and website walkthrough
 
 [Download the finished 15-second MP4 teaser](assets/video/cartshare-teaser-15s.mp4) or preview it in [cartshare-teaser-15s.html](assets/video/cartshare-teaser-15s.html). The 960×540 video has four animated cuts, a custom music bed, and a warm conversational Andrew neural voiceover. Its narration is [cartshare-teaser-15s.mp3](assets/video/cartshare-teaser-15s.mp3), with the transcript in [teaser-15s-voiceover.txt](assets/video/teaser-15s-voiceover.txt). The page also has a direct download button and a browser-based exporter.
