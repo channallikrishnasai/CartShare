@@ -30,6 +30,12 @@ Open [http://localhost:8000](http://localhost:8000).
 - See recent room activity and print a clean, itemized group receipt.
 - Copy the room invite code and open the room dialog to create or join a room.
 
+## 15-second teaser and website walkthrough
+
+Open [cartshare-teaser-15s.html](assets/video/cartshare-teaser-15s.html) and press **Export 15 sec video** to record the fast-cut 1280×720 animated teaser with its voiceover as a WebM file. Use **Preview** to play it first. The included Zira narration is [cartshare-teaser-15s.wav](assets/video/cartshare-teaser-15s.wav), with its transcript in [teaser-15s-voiceover.txt](assets/video/teaser-15s-voiceover.txt).
+
+For a live site demo, follow the [two-minute website walkthrough script](assets/video/website-walkthrough-script-2min.txt). It includes timed cues for showing the room, 250-item catalog, search and favorites, shared cart, receipt, and implementation.
+
 ## 40-second animated explainer
 
 Open [cartshare-explainer.html](assets/video/cartshare-explainer.html), press **Export 40 second video**, and let the animation finish. The page records its animated canvas and the included narration together as a WebM video. If a local save endpoint is unavailable, the browser downloads `CartShare-Animated-Explainer.webm` when export finishes. Use **Play with voiceover** to preview it first.

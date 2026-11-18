@@ -1,0 +1,20 @@
+[0:00–0:12 | Open on the home page, then show the shared room.] 
+Hi, this is CartShare, a shared shopping space for roommates, teams, and travel groups. It brings the shopping list, cart, activity, and receipt into one place.
+
+[0:12–0:27 | Open the room dialog, enter a name, and show the invite code.] 
+I’ll start by creating a room. The invite code labels the shared space in this prototype, and the room panel gives the order a clear home. The people section shows the demo participants.
+
+[0:27–0:50 | Scroll to the catalog and sweep across its aisle filters.] 
+Next is the quick-shop catalog: 250 picks across ten aisles. You’ll find fruit, vegetables, dairy and eggs, bakery, snacks, drinks, pantry staples, personal care, home essentials, and meat and seafood. Real product-category photos help each aisle feel easy to scan.
+
+[0:50–1:08 | Search for an item, favorite it, then sort and add.] 
+Search finds products quickly. Category filters narrow the view, and sorting can organize items by name or price. I can save favorites for later, add a catalog item with one tap, or enter a custom item and price.
+
+[1:08–1:28 | Show the cart, item owners, running total, and activity.] 
+As the cart fills, each row shows the item, price, and who added it. The running total updates automatically. The delivery bar tracks progress toward the sample free-delivery target, while the activity feed records recent changes.
+
+[1:28–1:43 | Remove one item and open Print receipt.] 
+I can remove an item or clear the cart, then print a tidy receipt to review the group order together. That makes the final list simple to check.
+
+[1:43–2:00 | Show the project files, then close on the CartShare logo.] 
+CartShare is built with HTML, CSS, and vanilla JavaScript. It saves demo data in browser local storage and syncs updates between tabs in the same browser profile. Product photos load from Pexels. This prototype has no accounts or shared server yet, so different devices don’t share a cart. A real-time backend is the next step. CartShare—good things, shared.
